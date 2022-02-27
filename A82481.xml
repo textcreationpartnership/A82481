@@ -1,0 +1,409 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Anno Regni Caroli II Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, vicesimo secundo. At the Parliament begun at Westminster the eighth day of May, Anno Dom. 1661. in the thirteenth year of the reign of ... Lord Charles ... And there continued by several prorogations to the 14th day of February 1670 ...</title>
+            <title>Act to prevent and suppress seditious conventicles</title>
+            <author>England and Wales.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82481</idno>
+            <idno type="STC">Wing E1153AB</idno>
+            <idno type="STC">ESTC R21509</idno>
+            <idno type="EEBO-CITATION">49228338</idno>
+            <idno type="OCLC">ocm 49228338</idno>
+            <idno type="VID">135262</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82481)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 135262)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2555:21)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Anno Regni Caroli II Regis Angliæ, Scotiæ, Franciæ, &amp; Hiberniæ, vicesimo secundo. At the Parliament begun at Westminster the eighth day of May, Anno Dom. 1661. in the thirteenth year of the reign of ... Lord Charles ... And there continued by several prorogations to the 14th day of February 1670 ...</title>
+                  <title>Act to prevent and suppress seditious conventicles</title>
+                  <author>England and Wales.</author>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by ... John Bill and Christopher Barker ...,</publisher>
+                  <pubPlace>[London] In the Savoy,</pubPlace>
+                  <date>1670.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Cum privilegio."</note>
+                  <note>Reproduction of original in: Henry E. Huntington Library and Art Gallery</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church and state --  Great Britain --  Early works to 1800.</term>
+               <term>Great Britain --  Church history --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:135262:1"/> Anno Regni CAROLI II REGIS <hi>Angliae, Scotiae,
+Franciae</hi> &amp; <hi>Hiberniae,</hi> VICESIMO SECUNDO.</p>
+            <p>At the <hi>Parliament</hi> begun at <hi>Weſtminſter</hi> the
+Eighth day of <hi>May, Anno Dom.</hi> 1661. In the Thirteenth Year of the Reign
+of our moſt Gracious Sovereign Lord CHARLES, by the Grace of God, of
+<hi>England, Scotland, France</hi> and <hi>Ireland</hi> King, Defender of the
+Faith, <hi>&amp;c.</hi>
+            </p>
+            <p>And there continued by ſeveral Prorogations to the 14<hi rend="sup">th</hi> day of
+<hi>February</hi> 1669/70. From whence it is continued by Adjourn<g ref="char:EOLhyphen"/>ment made the
+11<hi rend="sup">th</hi> of <hi>April</hi> 1670. to the 24<hi rend="sup">th</hi> day of <hi>October</hi>
+following.</p>
+            <figure>
+               <q>HONI SOIT QVI MAL Y PENSE</q>
+               <q>DIEV ET MON DROIT</q>
+               <figDesc>royal English blazon or coat of arms</figDesc>
+            </figure>
+            <p>In the <hi>SAVOY,</hi> Printed by the Aſſigns of <hi>John
+Bill</hi> and <hi>Chriſto<g ref="char:EOLhyphen"/>pher Barker,</hi> Printers to the Kings moſt
+Excellent Majeſty. 1670.</p>
+            <p>
+               <hi>C<g ref="char:V">Ʋ</g>M PRIVILEGIO.</hi>
+            </p>
+            <pb facs="tcp:135262:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb n="3" facs="tcp:135262:2"/>
+            <head>Anno XXII. Caroli II Regis.</head>
+            <head type="sub">An Act to prevent and Suppreſs Se<g ref="char:EOLhyphen"/>ditious
+Conventicles.</head>
+            <p>
+               <seg rend="decorInit">F</seg>Or Providing further and more ſpeedy Reme<g ref="char:EOLhyphen"/>dies againſt the
+grow<g ref="char:EOLhyphen"/>ing and dangerous Pra<g ref="char:EOLhyphen"/>ctices of Seditious Se<g ref="char:EOLhyphen"/>ctaries, and other
+Diſloy<g ref="char:EOLhyphen"/>al Perſons, who under Pretence of tender Con<g ref="char:EOLhyphen"/>ſciences, have or may
+at their Meétings Contrive Inſurrections (as late Experi<g ref="char:EOLhyphen"/>ence hath
+ſhewen) Be it Enacted by the Kings moſt Excellent Majeſty, by and with
+the Advice and Conſent of the Lords Spiritual and Temporal, and Commons in
+this preſent Parliament Aſſembled, and by Authority of the ſame, That
+if any Perſon of the age of Sixteen years or up<g ref="char:EOLhyphen"/>wards, being a Subject of
+this Realm, at <pb n="4" facs="tcp:135262:3"/> any time after the Tenth day of <hi>May</hi>
+next, ſhall be preſent at any Aſſembly, Conven<g ref="char:EOLhyphen"/>ticle or Meeting, under
+Colour or Pretence of any Exerciſe of Religion, in other man<g ref="char:EOLhyphen"/>ner then
+according to the Liturgy and Practice of the Church of <hi>England,</hi> in any
+place within the Kingdom of <hi>England,</hi> Do<g ref="char:EOLhyphen"/>minion of <hi>Wales,</hi> or
+Town of <hi>Berwiick</hi> upon <hi>Tweed,</hi> at which Conventicle, Meeting,
+or Aſſembly, there ſhall be five perſons or more, aſſembled
+together, over and beſides thoſe of the ſame Houſhold; if it be in a
+Houſe where there is a Family Inhabiting, or if it be in a Houſe,
+Field<g ref="char:punc">▪</g> or Place where there is no Family Inhabiting, Then where any Five
+Perſons or more, are ſo Aſſembled as aforeſaid, It ſhall and may be
+lawful to and for any one or more Iu<g ref="char:EOLhyphen"/>ſtices of the Peace of the County,
+Limit, Diviſion, Corporation or Liberty, where<g ref="char:EOLhyphen"/>in the Offence aforeſaid
+ſhall be committed, or for the Chief Magiſtrate of the Place where ſuch
+Offence aforeſaid ſhall be commit<g ref="char:EOLhyphen"/>ted, And he and they are hereby Required
+and Enjoyned upon Proof to him or them reſpectively made of ſuch Offence,
+either by Confeſſion of the Party, or Oath of Two Witneſſes (which Oath
+the ſaid Iuſtice and Iuſtices of the Peace, and Chief Magiſtrate
+reſpectively, are hereby Impowred and Required to Admini<g ref="char:EOLhyphen"/>ſter) or by
+notorious Evidence and Cir<g ref="char:EOLhyphen"/>cumſtance of the Fact, to make a Record of every
+ſuch Offence under his or their Hands and Seals reſpectively: which Record
+ſo made as aforeſaid, ſhall to all intents and <pb n="5" facs="tcp:135262:3"/>
+purpoſes be in Law taken and adjudged to be a full and perfect Conviction of
+every ſuch Offender for ſuch Offence; and thereupon the ſaid Iuſtice,
+Iuſtices and chief Magiſtrate reſpectively, ſhall impoſe on every
+ſuch Offen<g ref="char:EOLhyphen"/>der ſo convict as aforeſaid, a Fine of Five ſhil<g ref="char:EOLhyphen"/>lings for
+ſuch firſt offence, which Record and Conviction ſhall be certified by the
+ſaid Iu<g ref="char:EOLhyphen"/>ſtice, Iuſtices or Chief Magiſtrate at the next
+Quarter-Seſſions of the Peace, for the County or place where the Offence
+was com<g ref="char:EOLhyphen"/>mitted.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That if
+ſuch Offender ſo Convicted, as aforeſaid, ſhall at any time again
+commit the like Offence or Offences, contrary to this Act, and be thereof in
+manner aforeſaid convicted; Then ſuch Offender ſo convict of ſuch like
+offence or offences, ſhall for every ſuch Offence incur the Penalty of Ten
+ſhillings, which Fine and Fines, for the firſt and every other Offence
+ſhall be levied by Diſtreſs and ſale of the offenders Goods and
+Chattels; or in caſe of the poverty of ſuch Offender, upon the Goods and
+Chattels of any other perſon or perſons, who ſhall be then convicted in
+manner aforeſaid of the like Offence at the ſame Conventicle, at the
+diſcretion of the ſaid Iuſtice, Iuſtices or chief Magiſtrate
+reſpe<g ref="char:EOLhyphen"/>ctively, ſo as the Sum to be levied on any one perſon in caſe of
+the povertie of other Offen<g ref="char:EOLhyphen"/>ders amount not in the whole to above the Sum of
+Ten pounds, upon occaſion of any one meeting as aforeſaid. And every
+Conſtra<g ref="char:EOLhyphen"/>ble, Head-borough, Tything-man, Church-wardens, <pb n="6" facs="tcp:135262:4"/>
+and Overſeers of the Poor reſpe<g ref="char:EOLhyphen"/>ctively, are hereby Authorized and required
+to levy the ſame accordingly, having firſt received a Warrant under the
+hands and ſeals of the ſaid Iuſtice, Iuſtices or chief Magi<g ref="char:EOLhyphen"/>ſtrate
+reſpectively ſo to do; the ſaid moneys ſo to be levied, to be forthwith
+delivered to the ſame Iuſtice, Iuſtices or chief Magiſtrate, and by him
+or them to be diſtributed; The one third part thereof to the uſe of the
+Kings Majeſty, his Heirs &amp; Succeſſors, to be paid to the High
+Sheriff, of the County for the time being in manner following, that is to
+ſay, the Iuſtice or Iuſtices of Peace ſhall pay the ſame into the
+Court of the reſpective Quarter Seſſions, which ſaid Court ſhall
+deliver the ſame to the Sheriff, and make a Memorial on Record of the payment
+and delivery there<g ref="char:EOLhyphen"/>of, which ſaid Memorial ſhall be a ſufficient and
+final Diſcharge to the ſaid Iuſtice and Iuſtices, and a Charge to the
+Sheriff, which ſaid Diſcharge and Charge, ſhall be certified into the
+Exchequer together, &amp; not one with<g ref="char:EOLhyphen"/>out the other: And no Iuſtice ſhall
+or may be queſtioned or accountable for the ſame in the Exchequer or
+elſewhere, then in Quarter-Seſſions; And other third part thereof to
+&amp; for the uſe of the Poor of the Pariſh where ſuch Offence ſhall be
+committed; And the other third part thereof to the Informer and Informers, and
+to ſuch perſon and per<g ref="char:EOLhyphen"/>ſons as the ſaid Iuſtice, Iuſtices, or chief
+Magiſtrate reſpectively ſhall appoint, having regard to their diligence
+and induſtry in the diſcovery, diſperſing, and puniſhing of the
+ſaid Conventicles.</p>
+            <p>
+               <pb n="7" facs="tcp:135262:4"/> And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty
+aforeſaid, That every perſon who ſhall take upon him to Preach or Teach
+in any ſuch Meeting, Aſſembly, or Conventicle, and ſhall thereof be
+Convicted as aforeſaid, ſhall forfeit for every ſuch firſt Offence, the
+Sum of Twenty pounds, to be Levied in manner aforeſaid, upon his Goods and
+Chattels; and if the ſaid Preacher or Teacher ſo Con<g ref="char:EOLhyphen"/>victed, be a Stranger,
+and his Name and Ha<g ref="char:EOLhyphen"/>bitation not known, or is fled, and cannot be found, or in
+the Iudgment of the Iuſtice, Iu<g ref="char:EOLhyphen"/>ſtices or chief Magiſtrate before whom he
+ſhall be Convicted, ſhall be thought unable to pay the ſame, the ſaid
+Iuſtice, Iuſtices, or Chief Magiſtrate reſpectively, are hereby
+Im<g ref="char:EOLhyphen"/>powred and Required to levy the ſame by Warrant, as aforeſaid, upon the
+Goods and Chattels of any ſuch perſons who ſhall be preſent at the
+ſame Conventicle; Any thing in this or any other Act, Law or Statute to the
+contrary not withſtanding. And the Money ſo levied, to be diſpoſed of
+in manner aforeſaid: and if ſuch Offender ſo Convicted as afore<g ref="char:EOLhyphen"/>ſaid,
+ſhall at any time again commit the like Offence or Offences contrary to this
+Act, and be thereof Convicted in manner aforeſaid, then ſuch Offender ſo
+Convicted of ſuch like Offence or Offences, ſhall for every ſuch Offence,
+incurre the Penalty of Fourty pounds, to be levied and diſpoſed as
+afore<g ref="char:EOLhyphen"/>ſaid.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That every
+perſon who ſhall wit<g ref="char:EOLhyphen"/>tingly and willingly ſuffer any ſuch Con<g ref="char:EOLhyphen"/>venticle,
+<pb n="8" facs="tcp:135262:5"/> Meeting<g ref="char:punc">▪</g> or unlawſul Aſſembly aforeſaid, to be
+held in his or her Houſe, Out-houſe, Barn, Yard, or Backſide, and be
+Convicted thereof in manner aforeſaid, ſhall forfeit the Sum of Twenty
+pounds, to be levied in manner aforeſaid, upon his or her Goods and Chattels;
+or in caſe of his or her poverty or inability, as aforeſaid, upon the Goods
+and Chattels of ſuch perſons who ſhall be Convicted in manner
+aforeſaid, of being preſent at the ſame Conventicle; and the Money ſo
+levied, to be diſpoſed of in man<g ref="char:EOLhyphen"/>ner aforeſaid.</p>
+            <p>Provided always, and be it Enacted by the Authority aforeſaid,
+That no perſon ſhall by any Clauſe of this Act, be liable to pay above
+Ten pounds for any one Meeting<g ref="char:punc">▪</g> in regard of the poverty of any other
+perſon or perſons.</p>
+            <p>Provided alſo, and be it further Enacted, That in all Caſes of
+this Act, where the Pe<g ref="char:EOLhyphen"/>nalty or Sum charged upon any Offender, exceeds the Sum
+of Ten ſhillings, and ſuch Offender ſhall finde himſelf agrieved, it
+ſhall and may be lawful for him within one Week, after the ſaid Penalty or
+Money charged, ſhall be paid or levied, to Appeal in writing from the
+perſon or perſons Convict<g ref="char:EOLhyphen"/>ing, to the Iudgment of the Iuſtices of the
+Peace in their next Quarter-Seſſions; to whom the Iuſtice or Iuſtices
+of Peace, Chief Magiſtrate, or Alderman, that firſt convicted ſuch
+Offender, ſhall return the Mo<g ref="char:EOLhyphen"/>ney levied upon the Appellant, and ſhall
+cer<g ref="char:EOLhyphen"/>tifie under his and their Hands and Seals, <pb n="9" facs="tcp:135262:5"/> the Evidence
+upon which the Conviction paſt, with the whole Record thereof, and the ſaid
+Appeal: Whereupon ſuch offender may Plead and make Defence, and have his
+Try<g ref="char:EOLhyphen"/>al by a Iury thereupon: And in caſe ſuch Ap<g ref="char:EOLhyphen"/>pellant ſhall not
+Proſecute with effect, or if upon ſuch Tryal he ſhall not be acquitted,
+or Iudgment paſs not for him upon his ſaid Appeal, the ſaid Iuſtices at
+the Seſſions, ſhall give treble Coſts againſt ſuch Offender for his
+unjuſt Appeal: And no other Court whatſoever ſhall intermeddle with any
+Cauſe or Cauſes of Appeal upon this Act, but they ſhall be finally
+determined in the Quarter-Seſſions onely.</p>
+            <p>Provided always, and be it further Enact<g ref="char:EOLhyphen"/>ed, That upon the
+delivery of ſuch Appeal, as aforeſaid, the perſon or perſons Appellant
+ſhall enter before the perſon or perſons con<g ref="char:EOLhyphen"/>victing into a Recognizance,
+to proſecute the ſaid Appeal with effect: Which ſaid Recog<g ref="char:EOLhyphen"/>nizance, the
+perſon or perſons Convicting, is hereby Impowred to take, and required to
+certifie the ſame to the next Quarter-Seſſi<g ref="char:EOLhyphen"/>ons: And in caſe no ſuch
+Recognizance be entred into, the ſaid Appeal to be null and void.</p>
+            <p>Provided always, That every ſuch Appeal ſhall be left with the
+perſon or perſons ſo con<g ref="char:EOLhyphen"/>victing as aforeſaid, at the time of the
+making thereof.</p>
+            <p>And be it further Enacted by the Authority aforeſaid, That the
+Iuſtice, Iuſtices of the Peace, and Chief Magiſtrate reſpectively, or
+the reſpective Conſtables, Head-boroughs, and <pb n="10" facs="tcp:135262:6"/>
+Tything-men, by Warrant from the ſaid Iuſtice, Iuſtices, or Chief
+Magiſtrate re<g ref="char:EOLhyphen"/>ſpectively, ſhall and may with what aid, force and
+aſſiſtance they ſhall think fit, for the better execution of this Act,
+after refuſal or denial, to enter, break open, and enter into any houſe or
+other place, where they ſhall be informed any ſuch Conventicle, as
+aforeſaid, is or ſhall be held, as well within Liberties as without; and
+take into their Cuſtody the perſons there unlawfully aſſembled, to the
+intent they may be proceeded againſt accord<g ref="char:EOLhyphen"/>ing to this Act: And that the
+Lieutenants, or Deputy-Lieutenants, or any Commiſſi<g ref="char:EOLhyphen"/>onated Officer of the
+Militia, or other of His Majeſties Forces, with ſuch Troops or Companies of
+Horſe and Foot; And alſo the Sheriffs and other Magiſtrates and
+Mini<g ref="char:EOLhyphen"/>ſters of Iuſtice, or any of them joyntly or ſeverally, within any
+the Counties or places within this Kingdom of <hi>England,</hi> Dominion of
+<hi>Wales,</hi> or Town of <hi>Berwick</hi> upon <hi>Tweed,</hi> with ſuch
+other aſſiſtance as they ſhall think meét, or can get in
+readineſs with the ſooneſt, on Certificate made to them reſpectively
+un<g ref="char:EOLhyphen"/>der the Hand and Seal of any one Iuſtice of the Peace or Chief
+Magiſtrate, of his particular Information or Knowledge of ſuch unlawful
+Meéting or Conventicle held, or to be held in their reſpective
+Counties or places; And that he with ſuch Aſſiſtance as he can get
+together, is not able to ſuppreſs and diſſolve the ſame, ſhall and
+may, and are hereby required and enjoyned to repair unto the place where they
+are ſo held, or to <pb n="11" facs="tcp:135262:6"/> be held, and by the beſt means they
+can to diſſolve, diſſipate, or prevent all ſuch unlaw<g ref="char:EOLhyphen"/>ful Meetings,
+and take into their Cuſtody ſuch and ſo many of the ſaid perſons ſo
+un<g ref="char:EOLhyphen"/>lawfully aſſembled, as they ſhall think fit, to the intent they may be
+proceeded againſt according to this Act.</p>
+            <p>Provided always, That no Dwelling-houſe of any Peer of this
+Realm, where he or his Wife ſhall be then reſident, ſhall be ſearched
+by vertue of this Act, but by imme<g ref="char:EOLhyphen"/>diate Warrant from His Majeſty, under His
+Sign Manual; or in the preſence of the Lieutenant, or one Deputy-Lieutenant,
+or two Iuſtices of the Peace, whereof one to be of the <hi>Quorum</hi> of the
+ſame County or Ri<g ref="char:EOLhyphen"/>ding.</p>
+            <p>And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That if
+any Conſtable, Head-borough, Tything-man, Church-warden, or Overſeer of the
+Poor, who ſhall know, or be credibly informed of any ſuch Meetings or
+Conventicles held within his Precincts, Pa<g ref="char:EOLhyphen"/>riſh or Limits, and ſhall not
+give Infor<g ref="char:EOLhyphen"/>mation thereof to ſome Iuſtice of the Peace, or the Chief
+Magiſtrate, and endeavour the Conviction of the Parties, according to his
+Duty; but ſuch Conſtable, Headborough, Tythingman, Churchwarden,
+Overſeers of the Poor, or any perſon lawfully called in aid of the
+Conſtable Headborough, or Tything<g ref="char:EOLhyphen"/>man, ſhall wilfully and wittingly omit
+the performance of his Duty, in the Execution of this Act, and be thereof
+Convicted in manner aforeſaid, he ſhall forfeit for every ſuch Of<g ref="char:EOLhyphen"/>fence,
+<pb n="12" facs="tcp:135262:7"/> the ſum of five pounds, to be levied up<g ref="char:EOLhyphen"/>on his goods and
+Chattels, and diſpoſed in manner aforeſaid: And that if any Iuſtice of
+the Peace, or chief Magiſtrate, ſhall wil<g ref="char:EOLhyphen"/>fully and wittingly omit the
+performance of his Duty in the Execution of this Act, he ſhall forfeit the
+ſum of One hundred pounds, the one Moity to the uſe of His Majeſty, the
+other Moity to the uſe of the Informer, to be recovered by Action, Suit, Bill
+or Plaint, in any of His Majeſties Courts at <hi>Weſtminſter,</hi>
+wherein no Eſſoin, Protection, or Wager of Law ſhall lie.</p>
+            <p>And be it further Enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That if
+any perſon be at any time Sued for putting in Execution any of the Powers
+contained in this Act, otherwiſe then upon Appeal allowed by this Act, ſuch
+perſon ſhall and may plead the General Iſ<g ref="char:EOLhyphen"/>ſue, and give the ſpecial
+Matter in Evidence; and if the Plaintiff be Non-ſuit, or a Verdict paſs for
+the Defendant, or if the Plaintiff diſcontinue his Action, or if upon
+Demurrer, Iudgment be given for the Defendant, eve<g ref="char:EOLhyphen"/>ry ſuch Defendant ſhall
+have his full treble Coſts.</p>
+            <p>And be it further Enacted by the Authori<g ref="char:EOLhyphen"/>ty aforeſaid, That this
+Act, and all Clauſes therein contained, ſhall be conſtrued moſt largely
+and beneficially for the Suppreſſing of Conventicles, and for the
+Iuſtification and Encouragement of all perſons to be im<g ref="char:EOLhyphen"/>ployed in the
+Execution thereof; And that no Record, Warrant, or Mittimus to be made by
+vertue of this Act, or any proceéd<g ref="char:EOLhyphen"/>ings <pb n="13" facs="tcp:135262:7"/> thereupon,
+ſhall be Reverſed, Avoided, or any way Impeached by reaſon of any
+De<g ref="char:EOLhyphen"/>fault in form. And in caſe any perſon of<g ref="char:EOLhyphen"/>fending againſt this Act,
+ſhall be an Inha<g ref="char:EOLhyphen"/>bitant in any other County or Corporation, or flie into any
+other County or Corporation, after the Offence committed, the Iuſtice of the
+Peace, or chief Magiſtrate, before whom he ſhall be Convicted as
+aforeſaid, ſhall Certi<g ref="char:EOLhyphen"/>fie the ſame under his Hand and Seal, to any
+Iuſtice of Peace, or chief Magiſtrate of ſuch other County or Corporation
+wherein the ſaid perſon or perſons are Inhabitants, or are fled into;
+which ſaid Iuſtice or chief Ma<g ref="char:EOLhyphen"/>giſtrate reſpectively, is hereby
+Authorized and Required to levy the Penalty or Penalties in this Act mentioned,
+upon the Goods and Chattels of ſuch perſon or perſons, as fully as the
+ſaid other Iuſtice of Peace might have done, in caſe he or they had been
+Inha<g ref="char:EOLhyphen"/>bitants in the place where the Offence was committed.</p>
+            <p>Provided alſo, That no perſon ſhall be puniſhed for any
+Offence againſt this Act, unleſs ſuch Offender be Proſecuted for the
+ſame within Three moneths after the Of<g ref="char:EOLhyphen"/>fence committed. And that no perſon
+who ſhall be puniſhed for any Offence by vertue of this Act, ſhall be
+puniſhed for the ſame Offence by vertue of any other Act or Law
+whatſoever.</p>
+            <p>Provided, and be it further Enacted by the Authority aforeſaid,
+That every Alderman of <hi>London</hi> for the time being, within the City
+<pb n="14" facs="tcp:135262:8"/> of <hi>London,</hi> and the Liberties thereof ſhall have
+(and they and every of them are hereby Impowred and Required to Execute) the
+ſame power and Authority within <hi>London,</hi> and the Liberties thereof,
+for the Exami<g ref="char:EOLhyphen"/>ning, Convicting, and Puniſhing of all Of<g ref="char:EOLhyphen"/>fences within this
+Act committed within <hi>London,</hi> and the Liberties thereof, which any
+Iuſtice of Peace hath by this Act in any County of <hi>England,</hi> and
+ſhall be ſubject to the ſame Penalties and Puniſhments, for not doing
+that which by this Act is directed to be done by any Iuſtice of Peace in any
+County of <hi>England.</hi>
+            </p>
+            <p>Provided, and be it Enacted by the Autho<g ref="char:EOLhyphen"/>rity aforeſaid, That if
+the perſon Offending, and Convicted as aforeſaid, be a Feme-Co<g ref="char:EOLhyphen"/>vert,
+cohabiting with her Husband, the Penalties of Five ſhillings, and Ten
+ſhil<g ref="char:EOLhyphen"/>lings, ſo as aforeſaid incurred, ſhall be levi<g ref="char:EOLhyphen"/>ed by Warant, as
+aforeſaid, upon the Goods and Chattels of the Husband of ſuch
+Feme-Covert.</p>
+            <p>Provided alſo, That no Peer of this Realm ſhall be Attached or
+Impriſoned by vertue or force of this Act; Any thing, Mat<g ref="char:EOLhyphen"/>ter or Clauſe
+therein to the contrary not<g ref="char:EOLhyphen"/>withſtanding.</p>
+            <p>Provided alſo, That neither this Act, nor any thing therein
+contained, ſhall extend to invalidate or avoid His Majeſties Suprema<g ref="char:EOLhyphen"/>cy in
+Eecleſiaſtical Affairs; But that His Majeſty, and His Heirs and
+Succeſſors may from time to time, and at all times here<g ref="char:EOLhyphen"/>after,
+<pb n="15" facs="tcp:135262:8"/> Exerciſe and Enjoy all Powers and Authorities in
+Eccleſiaſtical Affairs, as fully and as amply as himſelf or any of his
+Predeteſſors have or might have done the ſame: Any thing in this Act
+notwithſtand<g ref="char:EOLhyphen"/>ing.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
